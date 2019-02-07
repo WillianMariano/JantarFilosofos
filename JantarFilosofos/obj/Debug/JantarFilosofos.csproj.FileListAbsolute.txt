@@ -1,0 +1,12 @@
+c:\users\willian\documents\visual studio 2013\Projects\JantarFilosofos\JantarFilosofos\bin\Debug\JantarFilosofos.exe.config
+C:\Users\Willian\documents\visual studio 2013\Projects\JantarFilosofos\JantarFilosofos\bin\Debug\JantarFilosofos.exe
+C:\Users\Willian\documents\visual studio 2013\Projects\JantarFilosofos\JantarFilosofos\bin\Debug\JantarFilosofos.pdb
+C:\Users\Willian\documents\visual studio 2013\Projects\JantarFilosofos\JantarFilosofos\obj\Debug\JantarFilosofos.csprojResolveAssemblyReference.cache
+C:\Users\Willian\documents\visual studio 2013\Projects\JantarFilosofos\JantarFilosofos\obj\Debug\JantarFilosofos.Form1.resources
+C:\Users\Willian\documents\visual studio 2013\Projects\JantarFilosofos\JantarFilosofos\obj\Debug\JantarFilosofos.Properties.Resources.resources
+C:\Users\Willian\documents\visual studio 2013\Projects\JantarFilosofos\JantarFilosofos\obj\Debug\JantarFilosofos.csproj.GenerateResource.Cache
+C:\Users\Willian\documents\visual studio 2013\Projects\JantarFilosofos\JantarFilosofos\obj\Debug\JantarFilosofos.exe
+C:\Users\Willian\documents\visual studio 2013\Projects\JantarFilosofos\JantarFilosofos\obj\Debug\JantarFilosofos.pdb
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\JantarFilosofos3\JantarFilosofos\bin\Debug\JantarFilosofos.exe.config
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\JantarFilosofos3\JantarFilosofos\obj\Debug\JantarFilosofos.exe
+C:\Users\Willian\Documents\Visual Studio 2013\Projects\JantarFilosofos3\JantarFilosofos\obj\Debug\JantarFilosofos.pdb
